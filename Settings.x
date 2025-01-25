@@ -1,8 +1,8 @@
-#import <YouTubeHeader/YTSettingsCell.h>
-#import <YouTubeHeader/YTSettingsGroupData.h>
-#import <YouTubeHeader/YTSettingsSectionItem.h>
-#import <YouTubeHeader/YTSettingsSectionItemManager.h>
-#import <YouTubeHeader/YTSettingsViewController.h>
+#import <YouTubeMusicHeader/YTSettingsCell.h>
+#import <YouTubeMusicHeader/YTSettingsGroupData.h>
+#import <YouTubeMusicHeader/YTSettingsSectionItem.h>
+#import <YouTubeMusicHeader/YTSettingsSectionItemManager.h>
+#import <YouTubeMusicHeader/YTSettingsViewController.h>
 #if TARGET_OS_SIMULATOR
 #import <PSHeader/Misc.h>
 #else
